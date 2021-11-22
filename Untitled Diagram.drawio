@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T13:31:32.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="2rnRRaw5VYy9IbBuV5Ko" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T13:37:03.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="vqbSDaycT3S7NRgPOpxz" version="15.8.3" type="github">
   <diagram id="1jp43f5wW6Zj-bq91B_3" name="Page-1">
     <mxGraphModel dx="744" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x9bNbu9WcmkZBZvzYXTh-1" value="imooc-cli 脚手架架构设计图&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="50" width="160" height="20" as="geometry" />
+        <mxCell id="x9bNbu9WcmkZBZvzYXTh-1" value="imooc-cli 脚手架架构设计图&lt;br style=&quot;font-size: 19px;&quot;&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="235" y="45" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9bNbu9WcmkZBZvzYXTh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;horizontal=1;spacingTop=0;spacingBottom=0;spacingLeft=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x9bNbu9WcmkZBZvzYXTh-3" value="脚手架核心框架" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="115" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9bNbu9WcmkZBZvzYXTh-5" value="仓库创建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x9bNbu9WcmkZBZvzYXTh-6" value="开发模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x9bNbu9WcmkZBZvzYXTh-7" value="发布模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
